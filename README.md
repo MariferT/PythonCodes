@@ -9,5 +9,5 @@ Python source codes for activities at school.
 - Odd/even Identifier
 - Roller Coaster Calculator/Printer
 - Body Mass Index Caclulator
-- Multiplication Calculator
+- Multiplication Table Calculator
 
