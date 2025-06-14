@@ -1,5 +1,5 @@
 # PythonCodes
-Python source codes for activities at school.
+Python source codes primed for academic activities.
 
 #1 Basic print 
 #2 Input and if/else
